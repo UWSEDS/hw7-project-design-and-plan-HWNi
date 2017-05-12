@@ -1,5 +1,5 @@
 # Homework 7 - Design Specification and Project Plan
-In this homework, you will create a design specification and project plan for your class project. The project plan should have the following structure:
+In this homework, you will create a design specification and project plan for your class project. The document should have the following structure:
 - Components. This section should list the components that you expect to have in your project (not necessarily a complete list), what they do, and how they are accessed. If the component is an existing package, then you should point to a reference page for the project. If it's something that you'll build, then describe (maybe at a high level) the functions and their inputs and outputs.
 - Interactions. You should have a subsection here for each use case in your functional specification (homework 6). In each subsection, you will describe how the components interact to accomplish the use case.
 - Project plan. Provide details for what you'll accomplish in the first two weeks, and higher level descriptions for the remaining weeks in the quarter so that the end result is that you have implemented and tested a system that accomplishes your use cases.
